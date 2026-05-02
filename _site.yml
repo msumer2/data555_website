@@ -23,7 +23,6 @@ output_dir: docs
 output:
   html_document:
     theme: sandstone
-    type: inverse
     css: style.css
     includes: 
       in_header: header.html
