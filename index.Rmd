@@ -1,9 +1,20 @@
 ---
-title: "My Website"
+title: ""
 ---
 
-Hello, Website!
+::: columns
+::: {.column width="50%" style="text-align: center;"}
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+```{r, echo=FALSE, fig.align='center', out.width='40%'}
+knitr::include_graphics("images/MS_HeadShot_25.png")
+```
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+## Mia Sumera
+
+:::
+
+::: {.column width="50%" style="text-align: left;"}
+
+Mia is a second year Master of Public Health candidate in the Department of Epidemiology at Emory University's Rollins School of Public Health. Upon completing her Master's, she will also complete her Certificate of Data Science.
+
+:::

@@ -1,9 +1,19 @@
-name: "Mia S"
+name: "Mia Sumera"
 navbar:
   title: "Mia's Website"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-      output_dir: docs
+  - text: Home
+    href: index.html
+    icon: fa-home
+  - text: About
+    href: about.html
+    icon: fa-book-open
+  - text: Projects
+    href: projects.html
+    icon: fa-computer
+  right:
+  - href: https://github.com/msumer2
+    icon: fa-github
+  - href: https://www.linkedin.com/in/mia-sumera/
+    icon: fa-linkedin
+output_dir: docs

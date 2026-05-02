@@ -1,0 +1,12 @@
+---
+title: "Mia's Projects"
+---
+
+### [DATA 550 Final Project](https://github.com/msumer2/data550_finproj)
+
+Data Science Toolkit (DATA 550) final project analyzing the **"Predict Students' Dropout and Academic Success"** dataset from UC Irvine's Machine Learning Repository. This analysis explores factors associated with student dropout and academic success.
+
+### [Capstone Evaluation Dashboard: CARE DREAMS Malawi](https://github.com/allicodi/vaxstrat)
+
+Dashboard created in Current Topics of Data Science (DATA 555) for my spring capstone project, **CARE International, Malawi — DREAMS** (Diversifying Resilience Approaches through Market Systems in Emergency).
+
