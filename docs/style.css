@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* Default link color */
+a {
+  color: #708238;
+  text-decoration: none;
+}
+
+/* Hover state */
+a:hover {
+  color: #50C878;
+  text-decoration: underline;
+}
+
+body {
+  font-family: 'Libre Baskerville', serif;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 700;
+}

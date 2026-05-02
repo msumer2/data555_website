@@ -3,18 +3,27 @@ title: ""
 ---
 
 ::: columns
-::: {.column width="50%" style="text-align: center;"}
-
-```{r, echo=FALSE, fig.align='center', out.width='40%'}
+::: {.column width="40%" style="text-align: center;"}
+```{r, echo=FALSE, fig.align='center', out.width='80%'}
 knitr::include_graphics("images/MS_HeadShot_25.png")
 ```
-
-## Mia Sumera
-
 :::
 
-::: {.column width="50%" style="text-align: left;"}
+::: {.column width="60%" style="text-align: left;"}
 
-Mia is a second year Master of Public Health candidate in the Department of Epidemiology at Emory University's Rollins School of Public Health. Upon completing her Master's, she will also complete her Certificate of Data Science.
+<h2 style="margin-top: 0;">Mia Sumera</h2>
 
+<p style="font-size: 1.1em; line-height: 1.8;">
+Mia is a second year Master of Public Health candidate in the 
+Department of Epidemiology at Emory University's Rollins School 
+of Public Health. Upon completing her MPH, she will also complete 
+her Certificate of Data Science. 
+</p>
+
+<p>
+<a href="files/ms_cv_26.pdf">📄 View CV</a> &nbsp;|&nbsp;
+<a href="about.html">More about Mia</a>
+</p>
+
+:::
 :::

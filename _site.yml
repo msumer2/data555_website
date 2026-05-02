@@ -11,9 +11,19 @@ navbar:
   - text: Projects
     href: projects.html
     icon: fa-computer
+  - text: Curriculum Vitae
+    href: files/ms_cv_26.pdf
+    icon: fa-paperclip
   right:
   - href: https://github.com/msumer2
     icon: fa-github
   - href: https://www.linkedin.com/in/mia-sumera/
     icon: fa-linkedin
 output_dir: docs
+output:
+  html_document:
+    theme: sandstone
+    type: inverse
+    css: style.css
+    includes: 
+      in_header: header.html

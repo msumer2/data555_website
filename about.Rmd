@@ -1,5 +1,46 @@
 ---
-title: "About Me"
+title: ""
 ---
 
-Mia enjoys baking, going to the movies, and traveling! All of which she has unfortunately not had much time for lately :(. Hopefully she will be able to cultivate her hobbies post graduation, before working for the rest of her life </3.
+# About Mia
+
+<p style="font-size: 1.1em; line-height: 1.9; color: #333;">
+Mia enjoys baking, going to the movies, and traveling! She graduated with a <strong>Bachelor of Science in Biological Sciences and Double Minor in Psychology and Microbiology</strong> from Clemson University in May 2024. In May 2026, she will graduate with a <strong>Master of Public Health in Epidemiology and Data Science Certificate</strong> from Emory University's Rollins School of Public Health.
+</p>
+<br>
+<br>
+
+<div class="row">
+
+<div class="col-sm-6">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title"><strong><a href="https://scholarblogs.emory.edu/dementiacaregivingmemories/the-frost-lab-at-emory/" style="color:#333;">The Frost Lab</a></strong></h3>
+</div>
+<div class="panel-body">
+<p><em>Nell Hodgson Woodruff School of Nursing, Emory University</em></p>
+<img src="images/DEPS.png" style="width: 100%; margin-bottom: 10px;"/>
+<p>Contributed to the Frost Lab's Dementia Caregiver Preparedness Study (DEPS) through data management, program development, and report preparation. Led the development of a nationwide Community Advisory Board (CAB) framework to coordinate diverse stakeholder expertise and advance the Frost Lab's long-term research goals.</p>
+</div>
+</div>
+</div>
+
+<div class="col-sm-6">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title"><strong><a href="files/ms_cv_26.pdf" style="color: #333;">Capstone Poster Presentation</a></strong></h3>
+</div>
+<div class="panel-body">
+<p><em>Rollins School of Public Health, Emory University</em></p>
+<a href="images/Poster.png">
+<img src="images/Poster2.png" style="width: 100%; margin-bottom: 10px;"/>
+</a>
+<p>Evaluated whether the addition of a Supplementary Nutrition Assistance 
+(SNA) top-up to Unconditional Food Assistance (UFA) improved nutrition 
+outcomes among women and children across Chiradzulu, Phalombe, and Thyolo 
+districts in southern Malawi.</p>
+</div>
+</div>
+</div>
+
+</div>
